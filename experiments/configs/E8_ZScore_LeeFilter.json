@@ -1,0 +1,10 @@
+{
+  "exp_name": "E8_ZScore_LeeFilter",
+  "norm_mode": "zscore",
+  "use_lee_filter": true,
+  "aug_mode": "none",
+  "epochs": 10,
+  "batch_size": 2,
+  "lr": 0.001,
+  "seed": 42
+}

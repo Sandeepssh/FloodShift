@@ -1,0 +1,10 @@
+{
+  "exp_name": "E0_RawDB_NoAug",
+  "norm_mode": "raw_db",
+  "use_lee_filter": false,
+  "aug_mode": "none",
+  "epochs": 10,
+  "batch_size": 2,
+  "lr": 0.001,
+  "seed": 42
+}

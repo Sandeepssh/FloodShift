@@ -1,0 +1,10 @@
+{
+  "exp_name": "E6_ZScore_Combined",
+  "norm_mode": "zscore",
+  "use_lee_filter": false,
+  "aug_mode": "combined",
+  "epochs": 10,
+  "batch_size": 2,
+  "lr": 0.001,
+  "seed": 42
+}

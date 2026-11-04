@@ -1,0 +1,10 @@
+{
+  "exp_name": "E1_MinMax_NoAug",
+  "norm_mode": "minmax_clip",
+  "use_lee_filter": false,
+  "aug_mode": "none",
+  "epochs": 10,
+  "batch_size": 2,
+  "lr": 0.001,
+  "seed": 42
+}

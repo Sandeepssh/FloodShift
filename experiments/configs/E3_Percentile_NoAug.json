@@ -1,0 +1,10 @@
+{
+  "exp_name": "E3_Percentile_NoAug",
+  "norm_mode": "percentile",
+  "use_lee_filter": false,
+  "aug_mode": "none",
+  "epochs": 10,
+  "batch_size": 2,
+  "lr": 0.001,
+  "seed": 42
+}

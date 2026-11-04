@@ -1,0 +1,13 @@
+{
+  "exp_name": "MinMax_Geometric",
+  "norm_mode": "minmax_clip",
+  "use_lee_filter": false,
+  "aug_mode": "geometric",
+  "epochs": 10,
+  "batch_size": 2,
+  "lr": 0.001,
+  "seed": 42,
+  "train_count": 299,
+  "val_count": 72,
+  "ood_test_count": 75
+}

@@ -69,15 +69,3 @@ To install the requirements, run:
 pip install tensorflow numpy scipy rasterio pandas matplotlib scikit-learn
 ```
 
-## 📜 Citation
-
-If you use this code or our findings in your research, please cite the corresponding paper (Publication pending):
-
-```bibtex
-@article{hosamani2026floodshift,
-  title={Investigating the Interaction Between SAR Normalization and Data Augmentation for Cross-Regional Generalization in Sentinel-1 Water Segmentation},
-  author={Hosamani, Sandeep},
-  journal={ICTACT Journal on Data Science and Machine Learning},
-  year={2026}
-}
-```
